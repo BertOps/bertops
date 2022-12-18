@@ -43,6 +43,9 @@ Annotated Datasets have been pushed in the `data\` folder.
 
 The submitted version of our paper illustrates results in terms of accuracy. We present here the results in terms of precision, recall and f1-score. Please check the `results/` folder.
 
+![Fault Category Prediction Results: results/fc.png](results/fc.png "Fault Category Results")
+![Golden Signal Classification Results: results/gs.png](results/gs.png "Golden Signal Classification Results")
+![Log Format Recognition Results: results/lfd.png](results/lfd.png "Log Format Recognition Results")
 ## Reproducing the results
 
 We have also pushed here, our training scripts with the appropriate hyper-parameters to prepare a pretrained model for ITOps domain. 
